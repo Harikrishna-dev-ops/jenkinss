@@ -1,0 +1,20 @@
+// Every Java program must be enclosed inside a class.
+// The file name must exactly match the class name (Main.java).
+public class Main {
+
+    // The main method is the entry point where the program starts running.
+    public static void main(String[] args) {
+        
+        // 1. Variable Declaration and Initialization
+        int number1 = 10;
+        int number2 = 20;
+        String greeting = "The total sum is: ";
+        
+        // 2. A Basic Mathematical Operation
+        int sum = number1 + number2;
+        
+        // 3. Printing Output to the Console
+        System.out.println("Hello, World!"); 
+        System.out.println(greeting + sum);
+    }
+}
