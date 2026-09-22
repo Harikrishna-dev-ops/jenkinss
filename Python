@@ -1,0 +1,14 @@
+# Text (String)
+name = "Alice"
+
+# Whole numbers (Integer)
+age = 25
+
+# Decimal numbers (Float)
+height = 5.9
+
+# Boolean (True/False)
+is_student = True
+
+# Displaying values
+print(name, age, height, is_student)  # Output: Alice 25 5.9 True
